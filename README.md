@@ -5,7 +5,8 @@ Seri kuliah "Mekanika Kuantum Minimalis 2.0" ini ditujukan bagi para pelajar fis
 Urutan kuliah/tutorial:
 1. [Statistika Dasar](kuliah/01-statistika-dasar.pdf)
 2. [Aljabar Vektor dan Matriks](kuliah/02-aljabar-vektor-matriks.pdf)
-3. ...
+3. [Polarisasi Gelombang Elektromagnetik](kuliah/03-polarisasi-gelombang-em.pdf)
+4. ...
 
 
 
