@@ -8,7 +8,8 @@ Urutan kuliah/tutorial:<br />
 2. [Aljabar Vektor dan Matriks](kuliah/02-aljabar-vektor-matriks.pdf)
 3. [Polarisasi Gelombang Elektromagnetik](kuliah/03-polarisasi-gelombang-em.pdf)
 4. [Kalkulus Jones](kuliah/04-kalkulus-jones.pdf)
-5. ...
+5. [Deskripsi Dasar Keadaan Kuantum](kuliah/05-keadaan-kuantum.pdf)
+6. ...
 
 Buku rujukan utama:
 - Mark Beck, "Quantum Mechanics: Theory and Experiment" (Oxford University Presss, 2012).
