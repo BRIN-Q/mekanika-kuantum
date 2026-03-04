@@ -9,7 +9,9 @@ Urutan kuliah/tutorial:<br />
 3. [Polarisasi Gelombang Elektromagnetik](kuliah/03-polarisasi.pdf)
 4. [Kalkulus Jones](kuliah/04-kalkulus-jones.pdf)
 5. [Deskripsi Dasar Keadaan Kuantum](kuliah/05-keadaan-kuantum.pdf)
-6. ...
+6. [Interferensi](kuliah/06-interferensi.pdf)
+7. [Mengenal Operator](kuliah/07-operator.pdf)
+8. ...
 
 Buku rujukan utama:
 - Mark Beck, "Quantum Mechanics: Theory and Experiment" (Oxford University Presss, 2012).
