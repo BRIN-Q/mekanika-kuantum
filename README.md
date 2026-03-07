@@ -11,7 +11,8 @@ Urutan kuliah/tutorial:<br />
 5. [Deskripsi Dasar Keadaan Kuantum](kuliah/05-keadaan-kuantum.pdf)
 6. [Interferensi](kuliah/06-interferensi.pdf)
 7. [Mengenal Operator](kuliah/07-operator.pdf)
-8. ...
+8. [Transformasi Basis](kuliah/08-transformasi-basis.pdf)
+9. ...
 
 Buku rujukan utama:
 - Mark Beck, "Quantum Mechanics: Theory and Experiment" (Oxford University Presss, 2012).
