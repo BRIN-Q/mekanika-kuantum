@@ -28,24 +28,24 @@ Penyusunan seri ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mah
 | No. | Topik | Materi |
 |---|---|---|
 | 1 | 📊 Statistika Dasar | [Buka PDF](kuliah/01-statistika.pdf) |
-| 2 | 🧮 Aljabar Vektor dan Matriks | [Buka PDF](kuliah/02-aljabar.pdf) |
+| 2 | 🧮 Aljabar Vektor dan Matriks | [PDF](kuliah/02-aljabar.pdf) |
 | 3 | 🌈 Polarisasi Gelombang Elektromagnetik | [Buka PDF](kuliah/03-polarisasi.pdf) |
 | 4 | 📐 Kalkulus Jones | [Buka PDF](kuliah/04-kalkulus-jones.pdf) |
 | 5 | ⚛️ Deskripsi Dasar Keadaan Kuantum | [Buka PDF](kuliah/05-keadaan-kuantum.pdf) |
 | 6 | 🌊 Interferensi | [Buka PDF](kuliah/06-interferensi.pdf) |
 | 7 | 🧠 Mengenal Operator | [Buka PDF](kuliah/07-operator.pdf) |
 | 8 | 🔄 Transformasi Basis | [Buka PDF](kuliah/08-transformasi-basis.pdf) |
-| 9 | ⏳ Berikutnya | Dalam pengembangan |
+| 9 | ⏳ Berikutnya | dalam pengembangan |
 
-Klik: [versi PDF gabungan](kuliah/Kuliah-01-08-ongoing.pdf), jika ingin mengunduh berkas gabungan sementara (hanya menggabung materi-materi yang sudah ada di atas ke dalam satu berkas PDF)
+Klik: [versi PDF gabungan](kuliah/Kuliah-01-08-ongoing.pdf), jika ingin mengunduh berkas gabungan sementara (hanya menggabung materi-materi yang sudah ada di atas ke dalam satu berkas PDF sehingga penomoran halaman berulang dari awal di setiap pergantian nomor kuliah).
 
 ---
 
 ## 🎯 Tujuan Seri Ini
 
 - Memperkenalkan mekanika kuantum secara bertahap dan minimalis
-- Menjembatani konsep matematika, gelombang, dan formalism kuantum
-- Menyediakan bahan belajar yang lebih mudah diakses oleh mahasiswa
+- Menjembatani konsep matematika, gelombang, dan formalisme kuantum
+- Menyediakan bahan belajar yang mudah diakses oleh mahasiswa Indonesia
 - Mendukung pembelajaran mandiri maupun kegiatan magang dan tutorial
 
 ---
