@@ -28,7 +28,7 @@ Penyusunan seri ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mah
 | No. | Topik | Materi |
 |---|---|---|
 | 1 | 📊 Statistika Dasar | [Buka PDF](kuliah/01-statistika.pdf) |
-| 2 | 🧮 Aljabar Vektor dan Matriks | [PDF](kuliah/02-aljabar.pdf) |
+| 2 | 🧮 Aljabar Vektor dan Matriks | [Buka PDF](kuliah/02-aljabar.pdf) |
 | 3 | 🌈 Polarisasi Gelombang Elektromagnetik | [Buka PDF](kuliah/03-polarisasi.pdf) |
 | 4 | 📐 Kalkulus Jones | [Buka PDF](kuliah/04-kalkulus-jones.pdf) |
 | 5 | ⚛️ Deskripsi Dasar Keadaan Kuantum | [Buka PDF](kuliah/05-keadaan-kuantum.pdf) |
