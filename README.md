@@ -1,25 +1,90 @@
-# Serial Mekanika Kuantum Minimalis 2.0
+# Serial Mekanika Kuantum Minimalis 2.0 ⚛️
 
-Seri kuliah "Mekanika Kuantum Minimalis 2.0" ini ditujukan bagi para pelajar fisika secara khusus serta sains dan teknologi secara umum untuk dapat menggunakan (dan syukur-syukur memahami) mekanika kuantum sehingga kita tidak ketinggalan dalam mengikuti perkembangan "Revolusi Kuantum 2.0".  Bahan perkuliahan berasal dari kegiatan belajar bersama mekanika kuantum dalam kegiatan magang riset di Pusat Riset Fisika Kuantum BRIN yang turut menjadi bagian dari program Merdeka Belajar Kampus Merdeka (MBKM) kerja sama dengan beberapa universitas mitra BRIN sejak 2022.  Tim penulis seri kuliah ini adalah beberapa peneliti Pusat Riset Fisika Kuantum BRIN bersama mahasiswa bimbingan dan alumni, terutama dari Kelompok Riset Teori Materi Kuantum.
+![Status](https://img.shields.io/badge/status-active-success)
+![Category](https://img.shields.io/badge/topic-quantum%20mechanics-blue)
+![Language](https://img.shields.io/badge/language-Indonesia-red)
+![Level](https://img.shields.io/badge/level-minimalis%20to%20intermediate-purple)
 
-Urutan kuliah/tutorial:<br />
-(berdasarkan kegiatan Magang BRIN periode Semester Genap 2025/26, Februari-Juli 2026)
-1. [Statistika Dasar](kuliah/01-statistika.pdf)
-2. [Aljabar Vektor dan Matriks](kuliah/02-aljabar.pdf)
-3. [Polarisasi Gelombang Elektromagnetik](kuliah/03-polarisasi.pdf)
-4. [Kalkulus Jones](kuliah/04-kalkulus-jones.pdf)
-5. [Deskripsi Dasar Keadaan Kuantum](kuliah/05-keadaan-kuantum.pdf)
-6. [Interferensi](kuliah/06-interferensi.pdf)
-7. [Mengenal Operator](kuliah/07-operator.pdf)
-8. [Transformasi Basis](kuliah/08-transformasi-basis.pdf)
-9. ...
+> Seri kuliah dan tutorial mekanika kuantum untuk pelajar fisika, sains, dan teknologi, di Indonesia.  
+> Disusun agar pembaca dapat mulai menggunakan, dan diharapkan memahami, mekanika kuantum secara bertahap dalam konteks **Revolusi Kuantum 2.0**.
 
-Buku rujukan utama:
-- Mark Beck, "Quantum Mechanics: Theory and Experiment" (Oxford University Press, 2012).
+---
 
-Kontributor aktif saat ini:
-- [Ahmad Ridwan Tresna Nugraha](https://art.nugraha.web.id) (Pusat Riset Fisika Kuantum BRIN)
-- [Hendry Minfui Lim](https://hendry24.github.io) (Ph.D. Student at National University of Singapore)
-- [Muhammad Anin Nabail Azhiim](https://annblphysics.blogspot.com/) (Alumnus of Universitas Indonesia)
-- [Nabilla Shafira Bachtiar](https://www.linkedin.com/in/nabillashafirab/) (Master Student at Institut Teknologi Bandung)
-- ... silakan jika ingin terlibat ...
+## 📌 Tentang Proyek Ini
+
+**Serial Mekanika Kuantum Minimalis 2.0** merupakan seri bahan kuliah yang dikembangkan untuk mendukung pembelajaran mekanika kuantum secara terstruktur, ringkas, dan bertahap, dikemas dalam **bahasa Indonesia**.
+
+Materi ini berasal dari kegiatan belajar bersama mekanika kuantum dalam program **magang riset di Pusat Riset Fisika Kuantum BRIN**, yang juga menjadi bagian dari program **Merdeka Belajar Kampus Merdeka (MBKM)** kerja sama dengan beberapa universitas mitra BRIN sejak **2022**.
+
+Penyusunan seri ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mahasiswa bimbingan, dan alumni, terutama dari **Kelompok Riset Teori Materi Kuantum**.
+
+---
+
+## 🧭 Struktur Kuliah
+
+**Berdasarkan kegiatan Magang BRIN periode Semester Genap 2025/26**  
+**Februari - Juli 2026**
+
+| No. | Topik | Materi |
+|---|---|---|
+| 1 | 📊 Statistika Dasar | [Buka PDF](kuliah/01-statistika.pdf) |
+| 2 | 🧮 Aljabar Vektor dan Matriks | [Buka PDF](kuliah/02-aljabar.pdf) |
+| 3 | 🌈 Polarisasi Gelombang Elektromagnetik | [Buka PDF](kuliah/03-polarisasi.pdf) |
+| 4 | 📐 Kalkulus Jones | [Buka PDF](kuliah/04-kalkulus-jones.pdf) |
+| 5 | ⚛️ Deskripsi Dasar Keadaan Kuantum | [Buka PDF](kuliah/05-keadaan-kuantum.pdf) |
+| 6 | 🌊 Interferensi | [Buka PDF](kuliah/06-interferensi.pdf) |
+| 7 | 🧠 Mengenal Operator | [Buka PDF](kuliah/07-operator.pdf) |
+| 8 | 🔄 Transformasi Basis | [Buka PDF](kuliah/08-transformasi-basis.pdf) |
+| 9 | ⏳ Berikutnya | Dalam pengembangan |
+
+Klik: [versi PDF gabungan](kuliah/Kuliah-01-08-ongoing.pdf), jika ingin mengunduh berkas gabungan sementara (hanya menggabung materi-materi yang sudah ada di atas ke dalam satu berkas PDF)
+
+---
+
+## 🎯 Tujuan Seri Ini
+
+- Memperkenalkan mekanika kuantum secara bertahap dan minimalis
+- Menjembatani konsep matematika, gelombang, dan formalism kuantum
+- Menyediakan bahan belajar yang lebih mudah diakses oleh mahasiswa
+- Mendukung pembelajaran mandiri maupun kegiatan magang dan tutorial
+
+---
+
+## 📚 Referensi Utama
+
+- Mark Beck, *Quantum Mechanics: Theory and Experiment*, Oxford University Press, 2012.
+
+---
+
+## 👥 Kontributor Aktif
+
+- [Ahmad Ridwan Tresna Nugraha](https://art.nugraha.web.id)  
+  (*[Fisikawan Gendeng](https://www.instagram.com/fisikawan.gendeng) at Pusat Riset Fisika Kuantum BRIN*)
+- [Hendry Minfui Lim](https://hendry24.github.io)  
+  (*Ph.D. Student at National University of Singapore*)
+- [Muhammad Anin Nabail Azhiim](https://annblphysics.blogspot.com/)  
+  (*Alumnus of Universitas Indonesia*)
+- [Nabilla Shafira Bachtiar](https://www.linkedin.com/in/nabillashafirab/)  
+  (*Master Student at Institut Teknologi Bandung*)
+
+---
+
+## 🤝 Undangan Kolaborasi
+
+Kolaborasi sangat terbuka untuk:
+
+- penambahan materi,
+- koreksi konsep,
+- revisi/penyuntingan tulisan,
+- penyuntingan visual dan format,
+- pengembangan topik lanjutan.
+
+Silakan kontak [Fisikawan Gendeng](https://www.instagram.com/fisikawan.gendeng), atau buka **Issue**, atau kirim **Pull Request** untuk berkontribusi.
+
+---
+
+## 🌱 Nilai Ekspektasi
+
+Repositori ini dikembangkan sebagai bagian dari upaya memperluas akses terhadap pembelajaran mekanika kuantum yang lebih sistematis, relevan, dan kontekstual bagi perkembangan sains modern.
+
+> Belajar kuantum dapat dimulai dari hal-hal sederhana, lalu dibangun menuju struktur yang lebih dalam.
