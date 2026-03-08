@@ -15,5 +15,11 @@ Urutan kuliah/tutorial:<br />
 9. ...
 
 Buku rujukan utama:
-- Mark Beck, "Quantum Mechanics: Theory and Experiment" (Oxford University Presss, 2012).
+- Mark Beck, "Quantum Mechanics: Theory and Experiment" (Oxford University Press, 2012).
 
+Kontributor aktif saat ini:
+- [Ahmad Ridwan Tresna Nugraha](https://art.nugraha.web.id) (Pusat Riset Fisika Kuantum BRIN)
+- [Hendry Minfui Lim](https://hendry24.github.io) (Ph.D. Student at National University of Singapore)
+- [Muhammad Anin Nabail Azhiim](https://annblphysics.blogspot.com/) (Alumnus of Universitas Indonesia)
+- [Nabilla Shafira Bachtiar](https://www.linkedin.com/in/nabillashafirab/) (Master Student at Institut Teknologi Bandung)
+- ... silakan jika ingin terlibat ...
