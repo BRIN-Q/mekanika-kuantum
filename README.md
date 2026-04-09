@@ -46,7 +46,7 @@ Klik: [versi PDF gabungan](kuliah/Kuliah-01-11-ongoing.pdf), jika ingin mengundu
 
 ## 🎯 Tujuan Seri Ini
 
-- Memperkenalkan mekanika kuantum secara bertahap dan minimalis
+- Mengenalkan mekanika kuantum secara bertahap dan minimalis
 - Menjembatani konsep matematika, gelombang, dan formalisme kuantum
 - Menyediakan bahan belajar yang mudah diakses oleh mahasiswa Indonesia
 - Mendukung pembelajaran mandiri maupun kegiatan magang dan tutorial
