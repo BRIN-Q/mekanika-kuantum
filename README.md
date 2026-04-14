@@ -38,9 +38,10 @@ Penyusunan seri ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mah
 | 9 | 📏 Konsep Pengukuran | [Buka PDF](kuliah/09-pengukuran.pdf) |
 | 10 | 🌓 Ketidaktentuan dan Komplementaritas| [Buka PDF](kuliah/10-ketidakpastian.pdf) |
 | 11 | 🌀 Mengenal Spin| [Buka PDF](kuliah/11-spin.pdf) |
-| 12| ⏳ Berikutnya | dalam pengembangan |
+| 12 | 🐱 Persamaaan Schrödinger | [Buka PDF](kuliah/12-schrodinger.pdf) |
+| 13| ⏳ Berikutnya | dalam pengembangan |
 
-Klik: [versi PDF gabungan](kuliah/Kuliah-01-11-ongoing.pdf), jika ingin mengunduh berkas gabungan sementara (hanya menggabung materi-materi yang sudah ada di atas ke dalam satu berkas PDF sehingga penomoran halaman berulang dari awal di setiap pergantian nomor kuliah).
+Klik: [versi PDF gabungan](kuliah/Kuliah-merged-ongoing.pdf), jika ingin mengunduh berkas gabungan sementara (hanya menggabung materi-materi yang sudah ada di atas ke dalam satu berkas PDF sehingga penomoran halaman berulang dari awal di setiap pergantian nomor kuliah).
 
 ---
 
