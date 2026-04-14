@@ -2,11 +2,11 @@
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Category](https://img.shields.io/badge/topic-quantum%20mechanics-blue)
-![Language](https://img.shields.io/badge/language-Indonesia-red)
-![Level](https://img.shields.io/badge/level-minimalis%20to%20intermediate-purple)
+![Language](https://img.shields.io/badge/language-Indonesian-red)
+![Level](https://img.shields.io/badge/level-beginner%20to%20intermediate-purple)
 
-> Seri kuliah dan tutorial mekanika kuantum untuk pelajar fisika, sains, dan teknologi, di Indonesia.  
-> Disusun agar pembaca dapat mulai menggunakan, dan diharapkan memahami, mekanika kuantum secara bertahap dalam konteks **Revolusi Kuantum 2.0**.
+> Seri kuliah dan tutorial mekanika kuantum untuk pelajar fisika, sains, dan teknologi, di Indonesia, khususnya sebagai fondasi riset.
+> Disusun agar pembaca dapat menggunakan, dan diharapkan memahami, mekanika kuantum secara bertahap dalam konteks **Revolusi Kuantum 2.0**.
 
 ---
 
