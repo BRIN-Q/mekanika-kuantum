@@ -12,7 +12,7 @@
 
 ## 📌 Tentang Proyek Ini
 
-**Serial Mekanika Kuantum Minimalis 2.0** merupakan seri bahan kuliah yang dikembangkan untuk mendukung pembelajaran mekanika kuantum secara terstruktur, ringkas, dan bertahap, dikemas dalam **bahasa Indonesia**.
+**Serial Mekanika Kuantum Minimalis 2.0** merupakan seri bahan kuliah yang dikembangkan untuk mendukung pembelajaran mekanika kuantum secara terstruktur, ringkas, dan bertahap, dikemas dalam **bahasa Indonesia**, terutama sebagai fondasi bagi penelitian yang membutuhkan kompetensi kuantum. 
 
 Materi ini berasal dari kegiatan belajar bersama mekanika kuantum dalam program **magang riset di Pusat Riset Fisika Kuantum BRIN**, yang juga menjadi bagian dari program **Merdeka Belajar Kampus Merdeka (MBKM)** kerja sama dengan beberapa universitas mitra BRIN sejak **2022**.
 
@@ -39,7 +39,8 @@ Penyusunan seri ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mah
 | 10 | 🌓 Ketidaktentuan dan Komplementaritas| [Buka PDF](kuliah/10-ketidakpastian.pdf) |
 | 11 | 🌀 Mengenal Spin| [Buka PDF](kuliah/11-spin.pdf) |
 | 12 | 🐱 Persamaaan Schrödinger | [Buka PDF](kuliah/12-schrodinger.pdf) |
-| 13| ⏳ Berikutnya | dalam pengembangan |
+| 13| ⏳ Mengenal Keterbelitan | [Buka PDF](kuliah/13-keterbelitan.pdf) |
+| 14| ⏳ Berikutnya | dalam pengembangan |
 
 Klik: [versi PDF gabungan](kuliah/Kuliah-merged-ongoing.pdf), jika ingin mengunduh berkas gabungan sementara (hanya menggabung materi-materi yang sudah ada di atas ke dalam satu berkas PDF sehingga penomoran halaman berulang dari awal di setiap pergantian nomor kuliah).
 
