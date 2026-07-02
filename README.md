@@ -65,13 +65,17 @@ Klik: [versi PDF gabungan](kuliah/Kuliah-merged-ongoing.pdf), jika ingin mengund
 
 ## 👥 Kontributor Aktif
 
-- [Ahmad Ridwan Tresna Nugraha](https://art.nugraha.web.id)  
+- [Ahmad Ridwan Tresna Nugraha](https://art.nugraha.web.id)
   (*[Fisikawan Gendeng](https://www.instagram.com/fisikawan.gendeng) at Pusat Riset Fisika Kuantum BRIN*)
-- [Hendry Minfui Lim](https://hendry24.github.io)  
+- [Umar Zaki Gunawan](https://github.com/marzkigun27)
+  (*Undergraduate Student at Telkom University*)
+- [Roudhotul Jannah](https://github.com/nanauiyagi)
+  (*Undergraduate Student at Telkom University*)
+- [Hendry Minfui Lim](https://hendry24.github.io)
   (*Ph.D. Student at National University of Singapore*)
-- [Muhammad Anin Nabail Azhiim](https://annblphysics.blogspot.com/)  
+- [Muhammad Anin Nabail Azhiim](https://annblphysics.blogspot.com/)
   (*Alumnus of Universitas Indonesia*)
-- [Nabilla Shafira Bachtiar](https://www.linkedin.com/in/nabillashafirab/)  
+- [Nabilla Shafira Bachtiar](https://www.linkedin.com/in/nabillashafirab/)
   (*Master Student at Institut Teknologi Bandung*)
 
 ---
